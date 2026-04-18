@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+RTL/ ASIC Design Engineer. VLSI enthusiast. 
+Turning Spec into Silicon, one module at a time. 😄
+
 <!--
 **Sumanth-Rao-cs/Sumanth-Rao-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
